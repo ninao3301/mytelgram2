@@ -1,2 +1,2 @@
 #!/bin/bash
-python3 src/bottyg.py
+python3 bottyg.py
